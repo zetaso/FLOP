@@ -1,6 +1,6 @@
-# flop_app
+# FLOP
 
-A new Flutter project.
+Flutter learning oriented project.
 
 ## Getting Started
 
